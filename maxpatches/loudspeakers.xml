@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ambiscore>
-	<snapshot index="anellobose">
+	<snapshot index="ilsuonodipiero">
 		<point>
 			<number>1</number>
 			<xyz>-0.56 0.830.000000</xyz>
@@ -17,6 +17,30 @@
 			<number>4</number>
 			<xyz>0.97 0.26 0.000000</xyz>
 		</point>
+
+		
+		<point>
+			<number>5</number>
+			<xyz>-0.92 -0.39 0.000000</xyz>
+		</point>
+
+		<point>
+			<number>6</number>
+			<xyz>0.92 -0.39 0.000000</xyz>
+		</point>
+
+		<point>
+			<number>7</number>
+			<xyz>-0.34 -0.94 0.000000</xyz>
+		</point>
+
+		<point>
+			<number>8</number>
+			<xyz>0.34 -0.94 0.000000</xyz>
+		</point>
+
+
+
 
 		
 	</snapshot>
